@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "💻",
+    "title": "Web Development",
+    "description": "Custom websites and web applications built with modern technologies for optimal performance and user experience."
+  },
+  {
+    "icon": "📱",
+    "title": "Mobile Apps",
+    "description": "Native and cross-platform mobile applications for iOS and Android that deliver seamless user experiences."
+  },
+  {
+    "icon": "🎨",
+    "title": "UI/UX Design",
+    "description": "User-centered design solutions that enhance usability, engagement, and conversion rates."
+  },
+  {
+    "icon": "🔍",
+    "title": "SEO Optimization",
+    "description": "Comprehensive SEO strategies to improve your website's visibility and ranking on search engines."
+  },
+  {
+    "icon": "🛒",
+    "title": "E-commerce Solutions",
+    "description": "Complete online store development with secure payment processing and inventory management."
+  },
+  {
+    "icon": "☁️",
+    "title": "Cloud Services",
+    "description": "Scalable cloud infrastructure and hosting solutions for businesses of all sizes."
+  }
+]

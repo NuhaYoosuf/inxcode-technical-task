@@ -1,0 +1,38 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+    "title": "E-commerce Platform",
+    "description": "A fully responsive online store with secure payment processing and inventory management.",
+    "tags": ["React", "Node.js", "MongoDB"]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1115&q=80",
+    "title": "Financial Dashboard",
+    "description": "Interactive data visualization dashboard for financial analytics and reporting.",
+    "tags": ["React", "D3.js", "Python"]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "title": "Fitness App",
+    "description": "Mobile application for tracking workouts, nutrition, and health goals.",
+    "tags": ["React Native", "Firebase", "Redux"]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Real Estate Portal",
+    "description": "Comprehensive platform for property listings, virtual tours, and agent connections.",
+    "tags": ["Vue.js", "Laravel", "MySQL"]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Task Management System",
+    "description": "Collaborative project management tool with real-time updates and team communication.",
+    "tags": ["Angular", "Socket.io", "MongoDB"]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Travel Booking Platform",
+    "description": "End-to-end travel booking system with flight, hotel, and car rental options.",
+    "tags": ["React", "Express", "PostgreSQL"]
+  }
+]
