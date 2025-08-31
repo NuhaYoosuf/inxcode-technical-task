@@ -1,58 +1,70 @@
-# React + Tailwind Single-Page Application
+# 🚀 StriveTech – React + Tailwind SPA
 
-A modern, responsive single-page application built with React and Tailwind CSS, featuring a purple color scheme based on #6C4CF5.
+A modern, responsive **single-page application** built with **React** and **Tailwind CSS**, designed as a startup landing page with smooth navigation, modular components, and accessible design.
 
-## Features
+---
 
-- **Responsive Design**: Mobile-first layout that adapts to all screen sizes
-- **Modern UI**: Clean, professional design with purple accent colors
-- **Complete Sections**:
-  - Header with logo and navigation
-  - Hero section with headline and CTA
-  - About section with three core values
-  - Services section with six service cards
-  - Portfolio grid with four projects
-  - Contact form with validation
-  - Footer with copyright and social icons
-- **Interactive Elements**:
-  - Smooth scrolling navigation
-  - Active navigation highlighting
-  - Form validation with user feedback
-  - Hover effects on cards and buttons
-- **Accessibility**: Semantic HTML, ARIA attributes, and keyboard navigation
+## 📌 Features
 
-## Getting Started
+* **Responsive Design**: Mobile-first layout adapting to all screen sizes
+* **Clean UI**: Minimal, professional, and purple-accented styling
+* **Complete Sections**:
 
-### Prerequisites
+  * 🌐 **Header** – logo + navigation
+  * 🎯 **Hero** – headline with call-to-action button
+  * 💡 **About** – intro + 3 core values
+  * 🛠️ **Services** – 3–6 cards rendered from JSON data
+  * 📂 **Portfolio** – grid layout with 4–6 projects
+  * ✉️ **Contact** – form with validation & user feedback
+  * 📌 **Footer** – copyright + social icons
+* **Interactivity**:
 
-- Node.js (version 14 or higher)
-- npm or yarn
+  * Smooth scrolling navigation
+  * Active section highlighting in navbar
+  * Hover animations on buttons & cards
+  * Basic form validation
+* **Accessibility**: Semantic HTML, alt attributes for images, and keyboard navigation support
+* **Code Quality**: ESLint + Prettier for consistent formatting
 
-### Installation
+---
+
+## 🛠️ Getting Started
+
+### ✅ Prerequisites
+
+* [Node.js](https://nodejs.org/) (v14 or higher)
+* npm or yarn
+
+### ⚡ Installation
 
 1. Clone the repository:
-```bash
-git clone <repository-url>
-cd react-tailwind-spa
-```
+
+   ```bash
+   git clone https://github.com/NuhaYoosuf/inxcode-technical-task.git
+   cd inxcode-technical-task
+   ```
 
 2. Install dependencies:
-```bash
-npm install
-```
+
+   ```bash
+   npm install
+   ```
 
 3. Start the development server:
-```bash
-npm start
-```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+   ```bash
+   npm start
+   ```
 
-## Project Structure
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 📂 Project Structure
 
 ```
 src/
-  ├── components/
+  ├── components/        # Modular UI components
   │   ├── Header.js
   │   ├── Hero.js
   │   ├── About.js
@@ -60,46 +72,47 @@ src/
   │   ├── Portfolio.js
   │   ├── Contact.js
   │   └── Footer.js
-  ├── data/
+  ├── data/              # Static JSON for services & portfolio
   │   ├── services.json
   │   └── portfolio.json
-  ├── App.js
-  ├── index.js
-  └── index.css
+  ├── App.js             # Root component
+  ├── index.js           # Entry point
+  └── index.css          # Tailwind styles
 ```
 
-## Build for Production
+---
+
+## 📦 Build for Production
 
 ```bash
 npm run build
 ```
 
-This creates a `build` folder with optimized production files.
+This creates an optimized `build` folder, ready to deploy.
 
-## Technologies Used
+---
 
-- React 18
-- Tailwind CSS
-- React Icons
-- ESLint & Prettier for code formatting
+##  Live Demo
 
-## Browser Support
+Check out the live version of the **SriveTech** website deployed via Netlify:  
+https://strivetech1.netlify.app/
 
-This application supports all modern browsers including:
-- Chrome (last 2 versions)
-- Firefox (last 2 versions)
-- Safari (last 2 versions)
-- Edge (last 2 versions)
+---
 
-## License
+## 🧰 Tech Stack
 
-This project is licensed under the MIT License.
+* ⚛️ **React 18** – Component-based UI
+* 🎨 **Tailwind CSS** – Utility-first styling
+* 🔗 **React Icons** – Scalable vector icons
+* 🧹 **ESLint & Prettier** – Code linting & formatting
 
-## Contributing
+---
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
+## 🚀 Deployment
+
+Easily deployable on:
+
+* [Vercel](https://vercel.com)
+* [Netlify](https://www.netlify.com)
+* [GitHub Pages](https://pages.github.com)
 
